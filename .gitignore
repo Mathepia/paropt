@@ -24,7 +24,6 @@ paropt/*.pxi
 *.bbl
 .idea/*
 .vscode/*
-*.in
 *.pkl
 *.a
 .DS_Store
